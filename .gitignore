@@ -1,0 +1,10 @@
+**/auto
+**/.mypy_cache
+**/__pycache__
+**/flycheck_*.py
+**/.ipynb_checkpoints
+**/.virtual_documents
+*.py~
+*.log
+*.aux
+embeddings/embeddings.pt
